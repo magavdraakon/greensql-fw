@@ -1,5 +1,11 @@
 GreenSQL Database Firewall Installation
 
+
+Ubuntu 64bit
+------------
+sudo apt-get install devscripts
+
+
 For installation you have a number of options:
 1. Download installation package for your favorite distribution 
    from the following url and install it:
