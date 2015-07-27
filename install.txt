@@ -4,6 +4,9 @@ GreenSQL Database Firewall Installation
 Ubuntu 64bit
 ------------
 sudo apt-get install devscripts
+sudo apt-get install libevent-dev
+sudo apt-get install libpcre3-dev
+
 
 
 For installation you have a number of options:
